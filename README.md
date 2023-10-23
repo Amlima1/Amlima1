@@ -1,5 +1,7 @@
-### Hi there 👋
+### Amlima1
 
+**Amlima1/Amlima1** is my ✨ _personal repo_ ✨
+- 🌱 I’m currently learning coding
 <!--
 **Amlima1/Amlima1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
